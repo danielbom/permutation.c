@@ -1,0 +1,14 @@
+Einstein Problem: Not Solved
+Colors:                Vermelho            Verde          Amarelo             Azul           Branco 
+Beverages:                 Agua          Cerveja              Cha             Cafe            Leite 
+Cigarettes:            PallHall          Dunhill       BlueMaster           Prince            Blend 
+Animals:               Cachorro             Gato           Cavalo            Zebra          Passaro 
+Nationalities:        Noruegues           Ingles      Dinamarques            Sueco           Alemao 
+
+
+Einstein Problem: Solved
+Colors:                 Amarelo             Azul         Vermelho            Verde           Branco 
+Beverages:                 Agua              Cha            Leite             Cafe          Cerveja 
+Cigarettes:             Dunhill            Blend         PallHall           Prince       BlueMaster 
+Animals:                   Gato           Cavalo          Passaro            Zebra         Cachorro 
+Nationalities:        Noruegues      Dinamarques           Ingles           Alemao            Sueco 

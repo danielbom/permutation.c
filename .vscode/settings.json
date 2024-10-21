@@ -1,0 +1,15 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "*.pl": "perl",
+    "permutation.h": "c",
+    "array.h": "c",
+    "stdio.h": "c",
+    "string.h": "c",
+    "corecrt_memory.h": "c",
+    "corecrt_memcpy_s.h": "c",
+    "stdlib.h": "c",
+    "einstein-problem.h": "c",
+    "time.h": "c"
+  }
+}
